@@ -1,0 +1,6 @@
+Main
+{
+   viz_writer       = "VisIt"    // TODO: IBTK aborts if this is not defined
+   viz_dump_dirname = "heythere" // same here
+   log_file_name    = "logfile.log"
+}
